@@ -2,7 +2,10 @@
   "name": "jhose",
   "version": "0.1.0",
   "private": false,
-  "dependencies": {},
+  "dependencies": {
+    "web-vitals": "^1.0.0",
+    "new-dependency": "^1.0.1"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
